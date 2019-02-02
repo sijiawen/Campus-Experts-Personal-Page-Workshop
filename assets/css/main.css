@@ -1028,3 +1028,8 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+		#contact-form{
+			margin-top: 20px;
+			display: none;
+		}
